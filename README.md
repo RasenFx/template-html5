@@ -1,1 +1,2 @@
-# code-html
+# Template HTML5 Boilerplate
+#
